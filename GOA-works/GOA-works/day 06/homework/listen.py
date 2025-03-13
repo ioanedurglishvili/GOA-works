@@ -1,0 +1,6 @@
+a=("wat is your name")
+print(a)
+b=("wat is your last_name")
+print(b)
+c=("hwo old are you")
+print(c)
