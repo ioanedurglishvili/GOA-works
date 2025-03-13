@@ -1,0 +1,6 @@
+str=("gamarjoba")
+int=(6)
+float=(0.6)
+print(str)
+print(int)
+print(float)
